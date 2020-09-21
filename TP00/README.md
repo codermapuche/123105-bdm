@@ -11,6 +11,14 @@ Explore y explique en que consiste el dataset utilizando herramientas de explora
 	a. Releve las características de los atributos.
 	b. Represente gráficamente la cantidad de ciudades agrupados por Región.
 
+El dataset contiene informacion relacionada con la pobreza de diferentes paises 
+ofreciendo un enfoque multidemensional, es decir, que para cada pais se incluyen diferentes
+variables de medicion que permiten obtener una vision mas completa de la situacion que si solo 
+se mirara un aspecto (i.e. el salario bruto promedio, etc), esto nos permitira realizar un analisis
+mas completo de la pobreza teniendo en cuenta las variables que propone el dataset e 
+intentar averiguar, o al menos suponer, si existe alguna razon o correlacion entre las características
+de los paises/regiones que esten viculadas con los mayores o menores niveles de pobreza.
+
 Para realizar esta tarea, lo primero que se hizo fue instalar el paquete tidyverse
 que contiene entre otras cosas, la funcion read_csv que vamos a necesitar para
 improtar los datos.
@@ -203,11 +211,11 @@ Ahora vamos a grupar el MPI por region en las tres medidas:
 > pie(mpi.region.mean$`MPI National`, labels = mpi.region.mean$`World region`, main = "Media por region")
 > barplot(mpi.region.mean$`MPI National`, main = "Media por region", xlab = "Medias", ylab = "Regiones", names.arg = dtu$`World region`, col = "darkred", horiz = TRUE, cex.names=.5)
 
-> pie(mpi.region.median$`MPI National`, labels = mpi.region.median$`World region`, main = "Media por region")
-> barplot(mpi.region.median$`MPI National`, main = "Media por region", xlab = "Medias", ylab = "Regiones", names.arg = dtu$`World region`, col = "darkred", horiz = TRUE, cex.names=.5)
+> pie(mpi.region.median$`MPI National`, labels = mpi.region.median$`World region`, main = "Mediana por region")
+> barplot(mpi.region.median$`MPI National`, main = "Mediana por region", xlab = "Medias", ylab = "Regiones", names.arg = dtu$`World region`, col = "darkred", horiz = TRUE, cex.names=.5)
 
-> pie(mpi.region.mfv$`MPI National`, labels = mpi.region.mfv$`World region`, main = "Media por region")
-> barplot(mpi.region.mfv$`MPI National`, main = "Media por region", xlab = "Medias", ylab = "Regiones", names.arg = dtu$`World region`, col = "darkred", horiz = TRUE, cex.names=.5)
+> pie(mpi.region.mfv$`MPI National`, labels = mpi.region.mfv$`World region`, main = "Moda por region")
+> barplot(mpi.region.mfv$`MPI National`, main = "Moda por region", xlab = "Medias", ylab = "Regiones", names.arg = dtu$`World region`, col = "darkred", horiz = TRUE, cex.names=.5)
 
 > hist(dt[dt[,`World region`]=="Europe and Central Asia",]$`MPI National`, main="Histograma de Europe and Central Asia", xlab = "MPI National", ylab = "Frecuencia")
 > hist(dt[dt[,`World region`]=="Latin America and Caribbean",]$`MPI National`, main="Histograma de Latin America and Caribbean", xlab = "MPI National", ylab = "Frecuencia")
@@ -280,6 +288,19 @@ Sobre "Sub-Saharan Africa":
 	La mayoria de los habitantes de esta region es 38 veces mas pobre que la mayoria
 	de los habitantes de "Europe and Central Asia".
 
+Observando los datos regionales y comparandolos con los generales, podemos 
+concluir entonces que los paises de las regiones que se encuentran por sobre 
+la media mundial en MPI National (South Asia y Sub-Saharan Africa) son significativamente
+mas pobres que las regiones que se encuentran por debajo, ya que del otro lado de la 
+balanza se encuentran las demas regiones (Europe and Central Asia, Latin America and Caribbean, Arab States, East Asia and the Pacific).
+Dado que lo mismo pasa con la mediana, se puede afirmar que al menos la mitad de la poblacion
+mundial es pobre.
+En el caso de la moda, aparecen dos valores globales: 0.066 y 0.303 esto tiene su
+correlato en las modas de East Asia and the Pacific y Sub-Saharan Africa, podemos concluir entonces
+que la region Sub-Saharan Africa tiene los paises mas pobres del mundo y que East Asia and the Pacific
+tiene los paises con mayor clase media del mundo, en las otras regiones no existe una relacion notable 
+entre el nivel de MPI National de los paises y la region en la que se encuentran.
+
 ---
 
 ### Medidas de dispersión.
@@ -335,6 +356,14 @@ A continuacion, se muestran las graficas de boxplot para cada una de las variabl
 ![](boxplotxheadcountratioregional.jpeg)
 
 ![](boxplotxintensityofdeprivationregional.jpeg)
+
+Podemos concluir en base a estos graficos, que las regiones mas ricas presentan mayor
+grado de concentracion en los valores mas bajos del mundo, mientras que 
+en cambio, las regiones mas pobres presentan una mayor dispersion, no obstante esto se aprecia 
+graficamente asi debido a un efecto visual de la escala causado por la gran desigualdad que existe
+a nivel mundial entre los mas ricos y los mas pobres.
+Este efecto se observa en practicamente todas las variables, por lo que a priori se puede 
+concluir de este analisis que es posible que exista una correlacion entre ellas.
 
 A continuacion, se muestra un plot que vincula el MPI National con el MPI Regional:
 
