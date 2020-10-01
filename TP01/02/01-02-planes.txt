@@ -1,0 +1,232 @@
+
+&l26A&k4S&a8L
+===============================================================================
+Universidad Nacional de Lujan                                   D.S.A./D.G.S.
+            LISTADO DE PLANES EXISTENTES
+ Pagina: 001                                                         1/06/2015
+===============================================================================
+
+    CODIGO DE PLAN        CARRERA
+
+    0101                  INGENIERIA EN ALIMENTOS
+    0102                  INGENIERIA EN ALIMENTOS
+    0103                  INGENIERIA EN ALIMENTOS
+    0104                  INGENIERIA EN ALIMENTOS
+    0105                  INGENIERIA EN ALIMENTOS
+    0106                  INGENIERIA EN ALIMENTOS
+    0107                  INGENIERIA EN ALIMENTOS
+    0108                  INGENIERIA EN ALIMENTOS
+    0109                  INGENIERIA EN ALIMENTOS
+    0166                  INGENIERIA EN ALIMENTOS
+    0199                  INGENIERIA EN ALIMENTOS
+    0201                  INGENIERIA AGRONOMICA
+    0202                  INGENIERIA AGRONOMICA
+    0203                  INGENIERIA AGRONOMICA
+    0204                  INGENIERIA AGRONOMICA
+    0205                  INGENIERIA AGRONOMICA
+    0206                  INGENIERIA AGRONOMICA
+    0207                  INGENIERIA AGRONOMICA
+    0208                  INGENIERIA AGRONOMICA
+    0266                  INGENIERIA AGRONOMICA
+    0301                  LICENCIATURA EN ADMINISTRACION
+    0302                  LICENCIATURA EN ADMINISTRACION
+    0303                  LICENCIATURA EN ADMINISTRACION
+    0304                  LICENCIATURA EN ADMINISTRACION
+    0305                  LICENCIATURA EN ADMINISTRACION
+    0306                  LICENCIATURA EN ADMINISTRACION
+    0307                  LICENCIATURA EN ADMINISTRACION
+    0308                  LICENCIATURA EN ADMINISTRACION
+    0309                  LICENCIATURA EN ADMINISTRACION
+    0366                  LICENCIATURA EN ADMINISTRACION
+    0367                  LICENCIATURA EN ADMINISTRACION
+    0396                  LICENCIATURA EN ADMINISTRACION
+    0397                  LICENCIATURA EN ADMINISTRACION
+    0398                  LICENCIATURA EN ADMINISTRACION
+    0399                  LICENCIATURA EN ADMINISTRACION
+    0401                  LICENCIATURA EN CS. DE LA EDUCACION
+    0402                  LICENCIATURA EN CS. DE LA EDUCACION
+    0403                  LICENCIATURA EN CS. DE LA EDUCACION
+    0404                  LICENCIATURA EN CS. DE LA EDUCACION
+    0466                  LICENCIATURA EN CS. DE LA EDUCACION
+    0497                  LICENCIATURA EN CS. DE LA EDUCACION
+    0498                  LICENCIATURA EN CS. DE LA EDUCACION
+    0499                  LICENCIATURA EN CS. DE LA EDUCACION
+    0501                  LICENCIATURA EN TRABAJO SOCIAL
+    0502                  LICENCIATURA EN TRABAJO SOCIAL
+    0503                  LICENCIATURA EN TRABAJO SOCIAL
+    0504                  LICENCIATURA EN TRABAJO SOCIAL
+    0505                  LICENCIATURA EN TRABAJO SOCIAL
+    0506                  LICENCIATURA EN TRABAJO SOCIAL
+    0507                  LICENCIATURA EN TRABAJO SOCIAL
+    0508                  LICENCIATURA EN TRABAJO SOCIAL
+    0509                  LICENCIATURA EN TRABAJO SOCIAL
+    0510                  LICENCIATURA EN TRABAJO SOCIAL
+    0511                  LICENCIATURA EN TRABAJO SOCIAL
+===============================================================================
+Universidad Nacional de Lujan                                   D.S.A./D.G.S.
+            LISTADO DE PLANES EXISTENTES
+ Pagina: 002                                                         1/06/2015
+===============================================================================
+
+    CODIGO DE PLAN        CARRERA
+
+    0566                  LICENCIATURA EN TRABAJO SOCIAL
+    0567                  LICENCIATURA EN TRABAJO SOCIAL
+    0591                  LICENCIATURA EN TRABAJO SOCIAL
+    0592                  LICENCIATURA EN TRABAJO SOCIAL
+    0593                  LICENCIATURA EN TRABAJO SOCIAL
+    0594                  LICENCIATURA EN TRABAJO SOCIAL
+    0595                  LICENCIATURA EN TRABAJO SOCIAL
+    0596                  LICENCIATURA EN TRABAJO SOCIAL
+    0599                  LICENCIATURA EN TRABAJO SOCIAL
+    0602                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0603                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0604                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0605                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0606                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0607                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0666                  LICENCIATURA EN HISTORIA (CICLO DE LICENCIATURA)
+    0701                  LICENC. EN DESARROLLO SOCIAL
+    0702                  LICENC. EN DESARROLLO SOCIAL
+    0703                  LICENC. EN DESARROLLO SOCIAL
+    0704                  LICENC. EN DESARROLLO SOCIAL
+    0705                  LICENC. EN DESARROLLO SOCIAL
+    0801                  PROFESORADO EN HISTORIA
+    0802                  PROFESORADO EN HISTORIA
+    0803                  PROFESORADO EN HISTORIA
+    0804                  PROFESORADO EN HISTORIA
+    0866                  PROFESORADO EN HISTORIA
+    0901                  MAESTRIA EN DEMOGRAFIA SOCIAL
+    0902                  MAESTRIA EN DEMOGRAFIA SOCIAL
+    0903                  MAESTRIA EN DEMOGRAFIA SOCIAL
+    0904                  MAESTRIA EN DEMOGRAFIA SOCIAL
+    1001                  LICENCIATURA EN GEOGRAFIA (CICLO DE LICENCIATURA)
+    1002                  LICENCIATURA EN GEOGRAFIA (CICLO DE LICENCIATURA)
+    1066                  LICENCIATURA EN GEOGRAFIA (CICLO DE LICENCIATURA)
+    1101                  TEC.UN.EN ANALISIS DE SISTEMAS
+    1201                  PROF. PARA EL NIVEL INICIAL
+    1202                  PROF. PARA EL NIVEL INICIAL
+    1203                  PROF. PARA EL NIVEL INICIAL
+    1204                  PROF. PARA EL NIVEL INICIAL
+    1301                  ESPECIALIZACION EN DEMOGRAFIA SOCIAL
+    1302                  ESPECIALIZACION EN DEMOGRAFIA SOCIAL
+    1401                  LICENCIATURA EN INFORMATICA
+    1501                  LIC. EN EDUCACION FISICA (CICLO DE LICENCIATURA)
+    1502                  LIC. EN EDUCACION FISICA (CICLO DE LICENCIATURA)
+    1503                  LIC. EN EDUCACION FISICA (CICLO DE LICENCIATURA)
+    1504                  LIC. EN EDUCACION FISICA (CICLO DE LICENCIATURA)
+    1505                  LIC. EN EDUCACION FISICA (CICLO DE LICENCIATURA)
+    1506                  LIC. EN EDUCACION FISICA (CICLO DE LICENCIATURA)
+    1601                  PROFESORADO EN GEOGRAFIA
+    1602                  PROFESORADO EN GEOGRAFIA
+    1603                  PROFESORADO EN GEOGRAFIA
+    1666                  PROFESORADO EN GEOGRAFIA
+    1701                  LIC.EN SISTEMAS DE INFORMACION
+    1702                  LIC.EN SISTEMAS DE INFORMACION
+    1703                  LIC.EN SISTEMAS DE INFORMACION
+===============================================================================
+Universidad Nacional de Lujan                                   D.S.A./D.G.S.
+            LISTADO DE PLANES EXISTENTES
+ Pagina: 003                                                         1/06/2015
+===============================================================================
+
+    CODIGO DE PLAN        CARRERA
+
+    1704                  LIC.EN SISTEMAS DE INFORMACION
+    1706                  LIC.EN SISTEMAS DE INFORMACION
+    1707                  LIC.EN SISTEMAS DE INFORMACION
+    1708                  LIC.EN SISTEMAS DE INFORMACION
+    1709                  LIC.EN SISTEMAS DE INFORMACION
+    1710                  LIC.EN SISTEMAS DE INFORMACION
+    1711                  LIC.EN SISTEMAS DE INFORMACION
+    1712                  LIC.EN SISTEMAS DE INFORMACION
+    1713                  LIC.EN SISTEMAS DE INFORMACION
+    1766                  LIC.EN SISTEMAS DE INFORMACION
+    1801                  LIC. EN CIENCIAS BIOLOGICAS
+    1802                  LIC. EN CIENCIAS BIOLOGICAS
+    1803                  LIC. EN CIENCIAS BIOLOGICAS
+    1804                  LIC. EN CIENCIAS BIOLOGICAS
+    1866                  LIC. EN CIENCIAS BIOLOGICAS
+    1901                  TEC. UN. EN INSP. DE ALIMENTOS
+    2101                  TEC. UNIV. EN ADMIN. MUNICIPAL
+    2102                  TEC. UNIV. EN ADMIN. MUNICIPAL
+    2201                  TEC.UNIV. EN INFORM. AMBIENTAL
+    2202                  TEC.UNIV. EN INFORM. AMBIENTAL
+    2401                  TEC.UNIV. EN COMERCIO EXTERIOR
+    2402                  TEC.UNIV. EN COMERCIO EXTERIOR
+    2403                  TEC.UNIV. EN COMERCIO EXTERIOR
+    2501                  INGENIERIA INDUSTRIAL
+    2502                  INGENIERIA INDUSTRIAL
+    2503                  INGENIERIA INDUSTRIAL
+    2504                  INGENIERIA INDUSTRIAL
+    2505                  INGENIERIA INDUSTRIAL
+    2506                  INGENIERIA INDUSTRIAL
+    2507                  INGENIERIA INDUSTRIAL
+    2508                  INGENIERIA INDUSTRIAL
+    2566                  INGENIERIA INDUSTRIAL
+    2567                  INGENIERIA INDUSTRIAL
+    2596                  INGENIERIA INDUSTRIAL
+    2597                  INGENIERIA INDUSTRIAL
+    2598                  INGENIERIA INDUSTRIAL
+    2599                  INGENIERIA INDUSTRIAL
+    2601                  LIC. EN EDUCACION INICIAL (CICLO DE LICENCIATURA)
+    2602                  LIC. EN EDUCACION INICIAL (CICLO DE LICENCIATURA)
+    2603                  LIC. EN EDUCACION INICIAL (CICLO DE LICENCIATURA)
+    2666                  LIC. EN EDUCACION INICIAL (CICLO DE LICENCIATURA)
+    2701                  LIC. EN COMERCIO INTERNACIONAL
+    2702                  LIC. EN COMERCIO INTERNACIONAL
+    2703                  LIC. EN COMERCIO INTERNACIONAL
+    2704                  LIC. EN COMERCIO INTERNACIONAL
+    2766                  LIC. EN COMERCIO INTERNACIONAL
+    2801                  MAESTRIA EN POL.Y GEST.EDUCAC.
+    2901                  LIC. EN INFORMACION AMBIENTAL
+    2902                  LIC. EN INFORMACION AMBIENTAL
+    2903                  LIC. EN INFORMACION AMBIENTAL
+    2999                  LIC. EN INFORMACION AMBIENTAL
+    3001                  ESPEC.EN PROC.FISC.Y LEY PEN.TRIB.Y PREV.
+    3101                  ESP.EN PLAN.ESTR.APLIC.A FIN. Y COM.INT.
+    3201                  MAESTRIA EN CS.SOC.CON MENC.EN HIST.SOC.
+===============================================================================
+Universidad Nacional de Lujan                                   D.S.A./D.G.S.
+            LISTADO DE PLANES EXISTENTES
+ Pagina: 004                                                         1/06/2015
+===============================================================================
+
+    CODIGO DE PLAN        CARRERA
+
+    3301                  PROF.EN ENSE¥ANZA MEDIA DE ADULTOS(CICLO PROF)
+    3401                  ESPEC.EN CS.SOC. CON MENC. EN HIST. SOC.
+    3501                  DOCTOR DE LA UNIVERS. NACIONAL DE LUJAN
+    3601                  ESP.TELED.Y SIST.INF.GEO.APL.EST.MED.AMB.
+    3701                  ESPEC.EN EST.DE LAS MUJERES Y DE GENERO
+    3702                  ESPEC.EN EST.DE LAS MUJERES Y DE GENERO
+    3801                  ESPECIALIZACION EN PRODUCCION AVICOLA
+    3901                  TECNICAT. EN ADMIN. Y GESTION UNIVERSIT.
+    4001                  ESPECIALIZ. EN GESTION DE LA EDUCACION
+    4101                  TECNICATURA UNIVERSITARIA EN INDUSTRIAS LACTEAS
+    4102                  TECNICATURA UNIVERSITARIA EN INDUSTRIAS LACTEAS
+    4201                  DOCTORADO EN CIENCIAS APLICADAS
+    4301                  PROFESORADO EN EDUCACION FISICA
+    4302                  PROFESORADO EN EDUCACION FISICA
+    4401                  ESP. EN GESTION DEL PATRIMON. Y TURISMO SOSTENIBLE
+    4501                  MAESTRIA EN GESTION EMPRESARIA
+    4601                  ESP. EN GESTION DE LA TECNOLOGIA Y LA INNOVACION
+    4701                  MAESTRIA EN ESTUDIOS DE LAS MUJERES Y DE GENERO
+    4702                  MAESTRIA EN ESTUDIOS DE LAS MUJERES Y DE GENERO
+    4703                  MAESTRIA EN ESTUDIOS DE LAS MUJERES Y DE GENERO
+    4801                  PROFESORADO EN CIENCIAS BIOLOGICAS
+    4802                  PROFESORADO EN CIENCIAS BIOLOGICAS
+    4803                  PROFESORADO EN CIENCIAS BIOLOGICAS
+    4901                  DOCTORADO DE LA UNLu CON OR.CS.SOC.Y HUM.
+    5001                  ESPECIALIZACION EN ECOLOGIA Y MANEJO DE CUENCAS
+    5101                  LICENCIATURA EN GESTION UNIVERSITARIA
+    5102                  LICENCIATURA EN GESTION UNIVERSITARIA
+    5201                  LICENCIATURA EN ENFERMERIA
+    5301                  ESP.EN CALIDAD ECOLOGICA Y REST.DE SIST. FLUVIALES
+    5401                  CONTADOR PUBLICO
+    5501                  PROFESORADO EN CIENCIAS DE LA EDUCACION
+    5601                  ESPECIALIZACION EN SALUD SOCIAL Y COMUNITARIA
+    9601                  LICENCIATURA EN EDUCACION PERMANENTE
+    9701                  LIC. EN HISTORIA ARGENTINA Y AMERICANA
+    9801                  TECNICO EN MUSEOS HISTORICOS
+    9999                  PARA MODIFICAC. DE EGRESADOS UNICAMENTE
